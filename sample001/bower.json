@@ -1,0 +1,19 @@
+{
+    "name": "createjs-study",
+    "private": true,
+
+    "version": "0.0.0",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+    },
+    "devDependencies": {
+    },
+    "exportsOverride": {
+    }
+}

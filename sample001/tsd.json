@@ -1,0 +1,15 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "src/main/typescript/typings",
+  "bundle": "src/main/typescript/typings/bundle.d.ts",
+  "installed": {
+    "createjs/createjs.d.ts": {
+      "commit": "1d345f6c1471fab46b7eb54ebe90013f578c78ca"
+    },
+    "createjs-lib/createjs-lib.d.ts": {
+      "commit": "1d345f6c1471fab46b7eb54ebe90013f578c78ca"
+    }
+  }
+}
