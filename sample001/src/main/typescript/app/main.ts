@@ -5,3 +5,5 @@ module sample001 {
         }
 	}
 }
+
+new sample001.Sample001();
