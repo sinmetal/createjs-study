@@ -1,2 +1,4 @@
 node_modules/
 sample001/src/main/typescript/typings/
+sample001/.tscache/
+sample001/script
